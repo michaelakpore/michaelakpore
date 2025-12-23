@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Michael 👋
 
-<!--
-**michaelakpore/michaelakpore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electrical & Electronics Engineering student with a strong interest in
+robotics, autonomous systems, and open-source software.
 
-Here are some ideas to get you started:
+## 🔧 Technical Interests
+- ROS2 (rclcpp, executors, callback groups)
+- C++ (modern C++)
+- Linux
+- Robotics simulation (Gazebo, RViz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Focus
+- Contributing to ROS2 open-source projects
+- Preparing for Google Summer of Code (GSoC)
+- Building robotics simulation projects
+
+## 📌 Goals
+- Gain hands-on robotics and systems engineering experience
+- Contribute meaningful code to open-source communities
