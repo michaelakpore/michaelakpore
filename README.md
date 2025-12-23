@@ -1,7 +1,7 @@
 # Hi, I'm Michael 👋
 
 I'm an Electrical & Electronics Engineering student with a strong interest in
-robotics, autonomous systems, and open-source software.
+robotics, software engineering, autonomous systems, and open-source software.
 
 ## 🔧 Technical Interests
 - ROS2 (rclcpp, executors, callback groups)
